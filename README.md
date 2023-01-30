@@ -3,7 +3,7 @@
 This is an official implementation of the following paper:
 > Youngjoon Lee, Sangwoo Park, and Joonhyuk Kang.
 **[Fast-Convergent Federated Learning via Cyclic Aggregation](https://arxiv.org/abs/2210.16520)**  
-_submitted to ICASSP 2023_.
+_arXiv preprint arXiv:2210.16520_.
 
 ## Requirements
 The implementation runs on
